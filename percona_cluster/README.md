@@ -1,17 +1,14 @@
 percona_cluster Cookbook
 =======================
-TODO: Enter the cookbook description here.
-
-e.g.
-This cookbook makes your favorite breakfast sandwich.
+This cookbook installs percona repository and install percona server on RHEL based servers.
 
 Requirements
 ------------
-TODO: List your cookbook requirements. Be sure to include any requirements this cookbook has on platforms, libraries, other cookbooks, packages, operating systems, etc.
-
-e.g.
-#### packages
-- `toaster` - percona_cluster needs toaster to brown your bagel.
+Depends on openssl opscode cookbook.
+Supports OS:
+RHEL 6.x
+CentOS 6.x
+Amazon Linux
 
 Attributes
 ----------
