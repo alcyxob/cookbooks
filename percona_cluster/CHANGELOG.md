@@ -5,7 +5,7 @@ This file is used to list changes made in each version of the percona_cluster co
 
 0.1.0
 -----
-- [your_name] - Initial release of percona_cluster
+- Oleksandr Vorobiov - Initial release of percona_cluster
 
 - - -
 Check the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax) for help with Markdown.
